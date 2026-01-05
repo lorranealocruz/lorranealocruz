@@ -8,11 +8,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lorranealocruz&show_icons=true&theme=tokyonight"/>
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lorranealocruz&layout=compact&theme=tokyonight"/>
+
+![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositórios&query=public_repos&url=https://api.github.com/users/lorranealocruz)
+![Followers](https://img.shields.io/github/followers/lorranealocruz?label=Seguidores&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/lorranealocruz?affiliations=OWNER&style=for-the-badge)
+
 </div>
+
 
 ---
 
