@@ -5,19 +5,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositórios&query=public_repos&url=https://api.github.com/users/lorranealocruz)
-![Followers](https://img.shields.io/github/followers/lorranealocruz?label=Seguidores&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/lorranealocruz?affiliations=OWNER&style=for-the-badge)
-
-</div>
-
-
----
-
 ## 🔥 Gráfico de Contribuições
 
 <div align="center">
@@ -65,11 +52,6 @@
 
 ---
 
-## 🐍 Snake Animation (Contribuições)
-
-<div align="center">
-  <img src="https://github.com/lorranealocruz/lorranealocruz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
 
 
 
