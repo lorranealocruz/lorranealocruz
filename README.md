@@ -1,14 +1,17 @@
 # 👋 Olá! Eu sou a Lorrane Aló Cruz
+<img src="https://readme-typing-svg.herokuapp.com/?color=70A5FD&size=28&center=true&vCenter=true&width=600&lines=Seja%2C+bem+vindo(a)+ao+meu+perfil!;Sempre+aprendendo+🚀"/>
+
 
 💻 Desenvolvedora apaixonada por tecnologia, lógica e aprendizado contínuo.  
 🚀 Foco em desenvolvimento web, backend e boas práticas de programação.
 
 ---
 
-## 🔥 Gráfico de Contribuições
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lorranealocruz&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorranealocruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorranealocruz&layout=compact&langs_count=10&theme=tokyonight"/>
+
 </div>
 
 ---
