@@ -1,5 +1,5 @@
-# 👋 Olá! Eu sou a Lorrane Aló Cruz
-<img src="https://readme-typing-svg.herokuapp.com/?color=70A5FD&size=28&center=true&vCenter=true&width=600&lines=Seja%2C+bem+vindo(a)+ao+meu+perfil!;Sempre+aprendendo+🚀"/>
+# 👩🏻‍💻 Olá! Eu sou a Lorrane Aló Cruz
+<img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=28&center=true&vCenter=true&width=600&lines=Seja+bem+vindo(a)+ao+meu+perfil!;Sempre+aprendendo+💻"/>
 
 
 💻 Desenvolvedora apaixonada por tecnologia, lógica e aprendizado contínuo.  
